@@ -125,7 +125,6 @@ print("Hello, World!")
 ```python
 print("Hello, World!")
 ```
-````
 
 ## 인용문
 
@@ -141,7 +140,4 @@ print("Hello, World!")
 | ------ | ------ |
 | 내용 1 | 내용 2 |
 | 내용 3 | 내용 4 |
-
-```
-
-```
+````
