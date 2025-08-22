@@ -19,7 +19,7 @@
 | +    | 플러스             | Plus sign                    |
 | { }  | 중괄호             | Curly braces, Curly brackets |
 | [ ]  | 대괄호             | Square brackets              |
-|  |   | 파이프             | Pipe, Vertical bar           |
+|  \|   | 파이프             | Pipe, Vertical bar           |
 | \    | 백슬래시           | Backslash                    |
 | /    | 슬래시             | Slash, Forward slash         |
 | :    | 콜론               | Colon                        |
